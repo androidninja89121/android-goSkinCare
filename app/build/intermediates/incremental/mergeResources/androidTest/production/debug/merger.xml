@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\Work\Android Studio\GoSkinCare\app\src\androidTest\res"/><source path="D:\Work\Android Studio\GoSkinCare\app\build\generated\res\rs\androidTest\production\debug"/><source path="D:\Work\Android Studio\GoSkinCare\app\build\generated\res\generated\androidTest\production\debug"/></dataSet><dataSet config="androidTestProduction"><source path="D:\Work\Android Studio\GoSkinCare\app\src\androidTestProduction\res"/></dataSet><mergedItems/></merger>

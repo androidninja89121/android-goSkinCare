@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true" android:color="@color/pickerview_timebtn_pre" />
+    <item android:color="@color/pickerview_timebtn_nor" />
+</selector>
+<!-- From: file:/D:/Work/Android%20Studio/GoSkinCare/app/src/main/res/drawable-xhdpi/selector_pickerview_btn.xml -->
